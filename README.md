@@ -1,12 +1,16 @@
 ### Hi folks 👋
 
-Welcome on the Githup of Kreaweb.be.
+Welcome on the Github of Kreaweb.be.
 
 I'm a retired developer passioned about programming in PHP using the Laravel framework.
 
 I'm currently working on <a href="https://www.kreaweb.be/" target="_blank">MGeurts/genealogy</a>, a free and open-source (family tree) application to record family members and their relationships, build with PHP (Laravel 10).
 
 Please visit my blog at <a href="https://www.kreaweb.be/blog" target="_blank">https://www.kreaweb.be/blog</a>.
+
+Have a nice day.
+
+Marc
 
 <!--
 **MGeurts/MGeurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
